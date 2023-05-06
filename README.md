@@ -1,5 +1,5 @@
 # Pig-Human-RNAseq-analysis
-This is a Workflow to identify differential expression genes and genes with isoform switching events
+This is a workflow to identify differential expression genes and genes with isoform switching events
 
 ## Scripts and Supplementary Information
 - **PreQC and pesudoalignment pipeline**: scripts for parallelly running fastqc, AfterQC, and Kallisto
