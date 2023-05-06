@@ -2,11 +2,11 @@
 
 - **WDL**: java scripts to run WDL frame work. More details can be found [here](https://github.com/openwdl/wdl)
 - **Pipeline**: python and shell scripts to chain up biominformatcis analysis steps under WDL framework
-  - `start.sh`: shell script to load necessary modules and initiate the whole pipeline
-  -`getInput.py`: automically generate the json files required for WDL frame work
-  -`template.json`: a template json file for running `getInput.py`
-  -`slurm_RNAseqWDL.sh`: shell script to initiate WDL frame work
-  -`RNAseq.wdl`: WDL script to chain up anlysis steps
+  * `start.sh`: shell script to load necessary modules and initiate the whole pipeline
+  * `getInput.py`: automically generate the json files required for WDL frame work
+  * `template.json`: a template json file for running `getInput.py`
+  * `slurm_RNAseqWDL.sh`: shell script to initiate WDL frame work
+  * `RNAseq.wdl`: WDL script to chain up anlysis steps
   
 
 In this pipeline, those following steps were done:
