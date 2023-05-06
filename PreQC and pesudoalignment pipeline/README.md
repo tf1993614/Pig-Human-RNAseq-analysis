@@ -9,6 +9,8 @@
   * `RNAseq.wdl`: WDL script to chain up anlysis steps
   
 
+
+
 In this pipeline, those following steps were done:
 
 - **Fastqc**: check fastq sequencing files quality
