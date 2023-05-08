@@ -1,6 +1,6 @@
 ## This is a pipiline to parallely run QC steps and pseudoalignment
 
-- **WDL**: java scripts to run WDL frame work. More details can be found [here](https://github.com/openwdl/wdl)
+- **WDL**: java scripts to run WDL frame work can be downloaded via this [link](https://github.com/broadinstitute/cromwell/releases/tag/85). More details can be found [here](https://github.com/openwdl/wdl)
 - **Pipeline**: python and shell scripts to chain up biominformatcis analysis steps under WDL framework
   * `start.sh`: shell script to load necessary modules and initiate the whole pipeline
   * `getInput.py`: automically generate the json files required for WDL frame work
