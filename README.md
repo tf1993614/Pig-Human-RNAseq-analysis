@@ -2,7 +2,7 @@
 This is a workflow to identify differential expression genes and genes with isoform switching events
 
 ## Scripts and Supplementary Information
-- **PreQC and pesudoalignment pipeline**: scripts for parallelly running fastqc, AfterQC, and Kallisto
+- **PreQC and pesudoalignment pipeline**: Python and shell scripts for parallelly running fastqc, AfterQC, and Kallisto
 - **Customized functions for analysis and graphing**：R scripts for analysis and plotting
 - **Analysis in pig dataset**: R scripts for the analysis in pig dataset
 - **Analysis in human dataset**: R scripts for the analysis in human dataset
