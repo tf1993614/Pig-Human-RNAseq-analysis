@@ -1,0 +1,7 @@
+{
+  "RNApipeline.rawdata": "File",
+  "RNApipeline.thread": "String",
+  "RNApipeline.name": "String",
+  "RNApipeline.AfterQCSoftwareDir": "String",
+  "RNApipeline.indexdir": "String"
+}
