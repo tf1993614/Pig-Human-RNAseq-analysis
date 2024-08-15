@@ -12,3 +12,4 @@ Data are available on reasonable request. The main data relevant to the study ar
 f.tang@adelaide.edu.au
 
 ## Citation
+Tang F, Hummitzsch K, Rodgers RJ. RNAseq analysis of oocyte maturation from the germinal vesicle stage to metaphase II in pig and human. PLoS One. 2024 Aug 9;19(8):e0305893. doi: 10.1371/journal.pone.0305893. PMID: 39121087; PMCID: PMC11315340.
